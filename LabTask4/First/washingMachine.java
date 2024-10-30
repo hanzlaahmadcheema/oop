@@ -1,8 +1,8 @@
 package LabTask4.First;
 
-public class washing_meachine extends applience  {
+public class washingMachine extends applience  {
    String type;
-   washing_meachine(String name,String brand,String type){
+   washingMachine(String name,String brand,String type){
       super(name, brand);
       this.type=type;
    }

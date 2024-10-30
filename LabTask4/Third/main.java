@@ -1,6 +1,6 @@
 package LabTask4.Third;
 
-public class main {
+public class Main {
     public static void main(String[] args){
         
         animal n1=new animal("jack",3);

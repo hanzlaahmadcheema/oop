@@ -1,8 +1,8 @@
 package LabTask4.First;
 
-class AC extends applience {
+class Main extends applience {
     double capacity;
-    AC(String name,String brand,double capacity){
+    Main(String name,String brand,double capacity){
         super(name, brand);
         this.capacity= capacity;
     }
