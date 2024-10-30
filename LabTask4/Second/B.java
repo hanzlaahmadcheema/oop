@@ -1,4 +1,4 @@
-package labtsaks;
+package LabTask4.Second;
 
 public class B extends A {
     A s=new A();

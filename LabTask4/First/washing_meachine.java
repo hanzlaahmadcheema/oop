@@ -1,4 +1,5 @@
-package labtsaks;
+package LabTask4.First;
+
 public class washing_meachine extends applience  {
    String type;
    washing_meachine(String name,String brand,String type){

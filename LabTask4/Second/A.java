@@ -1,4 +1,4 @@
-package labtsaks;
+package LabTask4.Second;
 
 public class A {
  private int a=7;

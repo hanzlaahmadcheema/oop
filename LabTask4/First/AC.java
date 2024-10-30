@@ -1,4 +1,5 @@
-package labtsaks;
+package LabTask4.First;
+
 class AC extends applience {
     double capacity;
     AC(String name,String brand,double capacity){

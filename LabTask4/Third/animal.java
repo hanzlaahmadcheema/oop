@@ -1,4 +1,4 @@
-package labtsaks;
+package LabTask4.Third;
 public class animal {
     String name;
     int age;
