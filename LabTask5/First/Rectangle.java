@@ -1,21 +1,21 @@
 package LabTask5.First;
 
-public class Rectangle extends Shape {
-    private double length;
-    private double width;
-
-    public Rectangle(double length, double width) {
+class Rectangle extends Shape {
+    double length;
+    double width;
+    
+    Rectangle(double length, double width) {
         this.length = length;
         this.width = width;
     }
-
+    
     @Override
-    public double calculateArea() {
+    double area() {
         return length * width;
     }
-
+    
     @Override
-    public double calculatePerimeter() {
+    double perimeter() {
         return 2 * (length + width);
     }
 }

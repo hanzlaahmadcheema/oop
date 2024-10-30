@@ -1,6 +1,13 @@
 package LabTask5.First;
 
-public abstract class Shape {
-    public abstract double calculateArea();
-    public abstract double calculatePerimeter();
+class Shape {
+    double area() {
+        System.out.println("Calculating area for shape...");
+        return 0;
+    }
+    
+    double perimeter() {
+        System.out.println("Calculating perimeter for shape...");
+        return 0;
+    }
 }
