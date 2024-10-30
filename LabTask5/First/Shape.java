@@ -6,8 +6,4 @@ class Shape {
         return 0;
     }
     
-    double perimeter() {
-        System.out.println("Calculating perimeter for shape...");
-        return 0;
-    }
 }
