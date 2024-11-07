@@ -1,0 +1,4 @@
+Lab Task 3
+Y = ((A.B)')' = (A.B)
+Y = AB' + A'B
+Diagram + Truth Table
